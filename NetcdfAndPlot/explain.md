@@ -1,7 +1,7 @@
 # Net cdf 文件说明
 
 通过print函数可以得到一个NC文件的基本结构：
-````
+```
 dimensions(sizes): lon(144), lat(1), lev(17), time(12)
 
 variables(dimensions): 
